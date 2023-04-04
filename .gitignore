@@ -1,0 +1,5 @@
+.pio
+.cache
+sdkconfig*
+compile_commands.json
+**CMakeLists.txt
